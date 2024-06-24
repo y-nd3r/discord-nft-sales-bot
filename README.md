@@ -1,4 +1,5 @@
 This is a simple Express app discord bot for posting NFT sales after receiving a webhook event of transfer details.
+![image](https://github.com/y-nd3r/discord-nft-sales-bot/assets/108420006/c7ba21b4-3428-4250-90cc-d52f831f73c5)
 
 Below will be some brief explanation for setting up. More detailed instructions coming later.
 
